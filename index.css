@@ -4,7 +4,7 @@
   justify-content: center;
 }
 #title {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   text-align: center;
   background-color: rgb(233, 233, 233);
   font-size: larger;
@@ -20,7 +20,7 @@
 }
 
 #img-div {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   margin: 20px;
   background-color: aliceblue;
   border-radius: 5px;
